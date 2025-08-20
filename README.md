@@ -1,10 +1,11 @@
 <h1 align="left">I code, I film, and I bake :))</h1>
 
-<body align="left">Welcome to my page!</body>
-<body align="left">Hi, I’m Yoko!</body>
-<body align="left">I’m a data science student at UC Berkeley. I am strongly interest in the intersection of technology and storytelling. </body>
+<body align="left">
+  Welcome to my page!<br>
+  Hi, I’m Yoko!<br>
+  I’m a data science student at UC Berkeley. I am strongly interest in the intersection of technology and storytelling.<br>
+</body>
 
-<h3>Here are some of my past projects:</h3>
 <body><b>Chessblitz:</b></body>
 <body></body>
 <body><b>Toyoko LLC:</b></body>
