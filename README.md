@@ -11,17 +11,20 @@
 
 <p>
   <b>Chessblitz:</b><br>
-  Coming soon<br>
+  <ur>Cleaned and analyzed 5M+ chess puzzle game data from the Lichess database </ur><br>
+  <ur>Designed logic to deliver one themed puzzle per day, tailored by difficulty to help beginners learn how to play chess</ur><br>
+  <ur>Deployed backend logic using Firebase for integration into the ChessBlitz app</ur>ur><br>
   <b>Toyoko LLC:</b><br>
-  Coming soon
+  <ul>Built a Retrieval-Augmented Generation (RAG) system using Ollama and DNALinux, a locally served LLM library for bioinformatics; reduced inference latency by ~78% (from 7 min to 1.5 min) through optimized retrieval and generation workflows. Developed a fully functional macOS-compatible version.</ul>
+  <ul>Constructed Kronecker graphs and applied Bayesian inference to analyze LDIR-mediated bystander effects using single-cell transcriptomics in RStudio, enabling detailed modeling of radiation-induced cellular responses for KGI (Keck Graduate Institute)</ul>
 </p>
 
 <h3>Outside of coding, I make movies🎬💖</h3>
 <p>
   <b>Some of my film work:</b><br>
   Coming soon!<br>
-  <b>Animation work:</b><br>
-  <li><a href="https://drive.google.com/file/d/1bFu5mcAPRkdiqeK6JXphBI9niy7jDtQg/view?usp=sharing">Feast for Power (Spring 2025)</a></li>
+  <b>Animation work with Maya:</b><br>
+  <a href="https://drive.google.com/file/d/1bFu5mcAPRkdiqeK6JXphBI9niy7jDtQg/view?usp=sharing">Feast for Power (Spring 2025)</a>
 </p>
   
 <h3 align="left">Connect with me:</h3>
