@@ -1,21 +1,28 @@
 <h1 align="left">I code, I film, and I bake :))</h1>
 
+<h3 align="left">Welcome to my page!<h3>
+
 <body align="left">
-  Welcome to my page!<br>
   Hi, I’m Yoko!<br>
   I’m a data science student at UC Berkeley. I am strongly interest in the intersection of technology and storytelling.<br>
 </body>
 
-<body><b>Chessblitz:</b></body>
-<body></body>
-<body><b>Toyoko LLC:</b></body>
-<body></body>
+<h3>Here are some of my past projects:</h3>
 
-<body>Outside of coding, I make movies🎬💖</body>
-<body><b>Some of my film work:</b></body>
-<body>Coming soon!</body>
-<body><b>Animation work:</b></body>
-<a hrif="https://drive.google.com/file/d/1bFu5mcAPRkdiqeK6JXphBI9niy7jDtQg/view?usp=sharing">Feast for Power (Spring 2025)</a>
+<body>
+  <b>Chessblitz:</b><br>
+  Coming soon<br>
+  <b>Toyoko LLC:</b><br>
+  Coming soon
+</body>
+
+<h3>Outside of coding, I make movies🎬💖</h3>
+<body>
+  <b>Some of my film work:</b><br>
+  Coming soon!<br>
+  <b>Animation work:</b><br>
+  <a hrif="https://drive.google.com/file/d/1bFu5mcAPRkdiqeK6JXphBI9niy7jDtQg/view?usp=sharing">Feast for Power (Spring 2025)</a>
+</body>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
