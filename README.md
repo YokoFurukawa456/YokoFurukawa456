@@ -1,6 +1,21 @@
-<h1 align="center">Hi there! I'm Yoko　💌</h1>
-<h3 align="center">I code, I film, and I bake :))</h3>
+<h1 align="left">I code, I film, and I bake :))</h1>
 
+<body align="left">Welcome to my page!</body>
+<body align="left">Hi, I’m Yoko!</body>
+<body align="left">I’m a data science student at UC Berkeley. I am strongly interest in the intersection of technology and storytelling. </body>
+
+<h3>Here are some of my past projects:</h3>
+<body><b>Chessblitz:</b></body>
+<body></body>
+<body><b>Toyoko LLC:</b></body>
+<body></body>
+
+<body>Outside of coding, I make movies🎬💖</body>
+<body><b>Some of my film work:</b></body>
+<body>Coming soon!</body>
+<body><b>Animation work:</b></body>
+<a hrif="https://drive.google.com/file/d/1bFu5mcAPRkdiqeK6JXphBI9niy7jDtQg/view?usp=sharing">Feast for Power (Spring 2025)</a>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/yoko-furukawa-014993276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yoko-furukawa-014993276/" height="30" width="40" /></a>
