@@ -21,7 +21,7 @@
   <b>Some of my film work:</b><br>
   Coming soon!<br>
   <b>Animation work:</b><br>
-  <a hrif="https://drive.google.com/file/d/1bFu5mcAPRkdiqeK6JXphBI9niy7jDtQg/view?usp=sharing">Feast for Power (Spring 2025)</a>
+  <li><a hrif="https://drive.google.com/file/d/1bFu5mcAPRkdiqeK6JXphBI9niy7jDtQg/view?usp=sharing">Feast for Power (Spring 2025)</a></li>
 </body>
   
 <h3 align="left">Connect with me:</h3>
