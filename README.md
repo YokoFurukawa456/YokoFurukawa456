@@ -11,12 +11,16 @@
 
 <p>
   <b>Chessblitz:</b><br>
-  <ul>Cleaned and analyzed 5M+ chess puzzle game data from the Lichess database </ul><br>
-  <ul>Designed logic to deliver one themed puzzle per day, tailored by difficulty to help beginners learn how to play chess</ur><br>
-  <ul>Deployed backend logic using Firebase for integration into the ChessBlitz app</ul><br>
+  <ul>
+    <li>Cleaned and analyzed 5M+ chess puzzle game data from the Lichess database</li><br>
+    <li>Designed logic to deliver one themed puzzle per day, tailored by difficulty to help beginners learn how to play chess</li><br>
+    <li>Deployed backend logic using Firebase for integration into the ChessBlitz app</li><br>
+  <ur>
   <b>Toyoko LLC:</b><br>
-  <ul>Built a Retrieval-Augmented Generation (RAG) system using Ollama and DNALinux, a locally served LLM library for bioinformatics; reduced inference latency by ~78% (from 7 min to 1.5 min) through optimized retrieval and generation workflows. Developed a fully functional macOS-compatible version.</ul>
-  <ul>Constructed Kronecker graphs and applied Bayesian inference to analyze LDIR-mediated bystander effects using single-cell transcriptomics in RStudio, enabling detailed modeling of radiation-induced cellular responses for KGI (Keck Graduate Institute)</ul>
+  <ul>
+    <li>Built a Retrieval-Augmented Generation (RAG) system using Ollama and DNALinux, a locally served LLM library for bioinformatics; reduced inference latency by ~78% (from 7 min to 1.5 min) through optimized retrieval and generation workflows. Developed a fully functional macOS-compatible version.</li><br>
+    <li>Constructed Kronecker graphs and applied Bayesian inference to analyze LDIR-mediated bystander effects using single-cell transcriptomics in RStudio, enabling detailed modeling of radiation-induced cellular responses for KGI (Keck Graduate Institute)</li>
+  </ul>
 </p>
 
 <h3>Outside of coding, I make movies🎬💖</h3>
