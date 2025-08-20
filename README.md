@@ -5,6 +5,7 @@
 <p align="left">
   Hi, I’m Yoko!<br>
   I’m a data science student at UC Berkeley. I am strongly interest in the intersection of technology and storytelling.<br>
+  I love looking into different topics, and I am currently learning computational photography, computer vision, and object detection. 
 </p>
 
 <h3>Here are some of my past projects:</h3>
