@@ -49,13 +49,16 @@
   </ul>
 </p>
 
-<h3>Outside of coding, I make movies🎬💖</h3>
+<h3>When I'm not coding, I'm making movies🎬💖</h3>
 <p>
   <b>Some of my film work:</b><br>
   Coming soon!<br>
   <b>Animation work with Maya:</b><br>
   <a href="https://drive.google.com/file/d/1bFu5mcAPRkdiqeK6JXphBI9niy7jDtQg/view?usp=sharing">Feast for Power (Spring 2025)</a>
 </p>
+
+<h3>Or perhaps baking...🧁🍓</h3>
+<p><a href="https://www.instagram.com/yokosdormbakery">My baking account</a></p>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
