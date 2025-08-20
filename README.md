@@ -36,13 +36,13 @@
 <h3>Here are some of my past projects:</h3>
 
 <p>
-  <b>Chessblitz:</b><br>
+  <b>♟️Chessblitz:</b><br>
   <ul>
     <li>Cleaned and analyzed 5M+ chess puzzle game data from the Lichess database</li><br>
     <li>Designed logic to deliver one themed puzzle per day, tailored by difficulty to help beginners learn how to play chess</li><br>
     <li>Deployed backend logic using Firebase for integration into the ChessBlitz app</li><br>
   </ul>
-  <b>Toyoko LLC:</b><br>
+  <b>🧬Toyoko LLC:</b><br>
   <ul>
     <li>Built a Retrieval-Augmented Generation (RAG) system using Ollama and DNALinux, a locally served LLM library for bioinformatics; reduced inference latency by ~78% (from 7 min to 1.5 min) through optimized retrieval and generation workflows. Developed a fully functional macOS-compatible version.</li><br>
     <li>Constructed Kronecker graphs and applied Bayesian inference to analyze LDIR-mediated bystander effects using single-cell transcriptomics in RStudio, enabling detailed modeling of radiation-induced cellular responses for KGI (Keck Graduate Institute)</li>
