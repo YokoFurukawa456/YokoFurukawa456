@@ -1,11 +1,11 @@
-<h1 align="left">I code, I film, and I bake :))</h1>
+<h1 align="left">🍓I code, I film, and I bake :))🍓</h1>
 
 <h3 align="left">Welcome to my page!</h3>
 
 <p align="left">
   Hi, I’m Yoko!<br>
-  I’m a data science student at UC Berkeley. I am strongly interest in the intersection of technology and storytelling.<br>
-  I love looking into different topics, and I am currently learning computational photography, computer vision, and object detection. 
+  I’m a data science student at UC Berkeley🧸💛 I am strongly interest in the intersection of technology and storytelling.<br>
+  I love looking into different topics, and I am currently learning computational photography, computer vision, and object detection👀🎥
 </p>
 
 <h3>🚀 Things I code/build with</h3>
