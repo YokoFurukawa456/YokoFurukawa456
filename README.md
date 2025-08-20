@@ -10,28 +10,27 @@
 
 <h3>🚀 Things I code/build with</h3>
 <p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFBF00?logo=huggingface&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-FFB6C1?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-R-CBAACB?logo=r&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SQL-B5EAD7?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-HTML5-FFDAB9?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CSS3-AEC6CF?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-F7CAC9?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-B5EAD7?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-C7CEEA?logo=googlecloud&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFFACD?logo=huggingface&logoColor=black&style=for-the-badge" />
 </p>
 
 <h3>🪚 Other creative tools I use</h3>
 <p>
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?logo=davinciresolve&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=adobelightroom&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Autodesk%20Maya-1E87A5?logo=autodeskmaya&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blender-FFB347?logo=blender&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-FFB6C1?logo=figma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FFDAB9?logo=adobeillustrator&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-AEC6CF?logo=adobephotoshop&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-CBAACB?logo=adobepremierepro&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-B5EAD7?logo=davinciresolve&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-C7CEEA?logo=adobelightroom&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Autodesk%20Maya-F7CAC9?logo=autodeskmaya&logoColor=white&style=for-the-badge" />
 </p>
 
 <h3>Here are some of my past projects:</h3>
