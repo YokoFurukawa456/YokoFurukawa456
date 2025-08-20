@@ -1,6 +1,6 @@
-<h1 align="left">🍓I code, I film, and I bake :))🍓</h1>
+<h1 align="left">I code, I film, and I bake :))</h1>
 
-<h3 align="left">Welcome to my page!</h3>
+<h3 align="left">✨Welcome to my page!✨</h3>
 
 <p align="left">
   Hi, I’m Yoko!<br>
